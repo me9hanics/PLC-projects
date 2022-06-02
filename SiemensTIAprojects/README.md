@@ -1,5 +1,8 @@
 University PLC project
 
+![IMG_20220602_151656](https://user-images.githubusercontent.com/82604073/171654840-97526c9c-853d-4bd6-93bd-290efcf3eace.jpg)
+
+
 Firstly (after reset), the conveyer belt moves to the "right". If an object is detected by a sensor, then the conveyer belt stops, and it can be starting again by pressing the correct button. If we reach the farthest sensor, then the conveyer belt stops for 3 seconds, then it switches conveying directions.
 
 The model was designed to keep hold of multiple objects. If multiple sensors detect an object, it is only possible to start the conveyer belt again if all buttons corresponding to the sensors which detected an object are pressed.
