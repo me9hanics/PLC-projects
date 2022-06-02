@@ -7,3 +7,4 @@ The sensor is not capable of outputting a constant high logic level voltage, thu
 
 I designed the model using state machine logic, and with ladder diagrams.
 
+![plc](https://user-images.githubusercontent.com/82604073/171645403-c268f15b-cf24-4dab-ae28-ed2d3aface52.png)
